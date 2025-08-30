@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//Calculadora basica em C.
 int main() {
     char operador;
     double num1, num2, resultado;
