@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 //Calculadora basica em C.
+//Igual um gato.
 int main() {
     char operador;
     double num1, num2, resultado;
